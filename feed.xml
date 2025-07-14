@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Posh Technologies Status - Incident History</title>
+    <link>https://poshtechnologies.statuspage.io</link>
+    <description>Statuspage</description>
+    <pubDate>Tue, 08 Jul 2025 19:24:33 -0400</pubDate>
+    <item>
+      <title>Posh Answers and Knowledge Assistant searches are failing</title>
+      <description>
+&lt;p&gt;&lt;small&gt;Jul &lt;var data-var=&apos;date&apos;&gt; 8&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;19:24&lt;/var&gt; EDT&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - This issue is resolved. Posh Answers and Knowledge Assistants have returned to normal operation.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jul &lt;var data-var=&apos;date&apos;&gt; 8&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;19:16&lt;/var&gt; EDT&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Identified&lt;/strong&gt; - The issue has been identified and a fix is being implemented. Next update in 1 hour or sooner if the status changes.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jul &lt;var data-var=&apos;date&apos;&gt; 8&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;18:36&lt;/var&gt; EDT&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - We are currently investigating an issue that is causing our knowledge products to not respond to queries. We will update this incident in 1 hour or sooner if there is a change in status.&lt;/p&gt;      </description>
+      <pubDate>Tue, 08 Jul 2025 19:24:33 -0400</pubDate>
+      <link>https://poshtechnologies.statuspage.io/incidents/dg7k0n8txcn1</link>
+      <guid>https://poshtechnologies.statuspage.io/incidents/dg7k0n8txcn1</guid>
+    </item>
+    <item>
+      <title>Posh Digital and Voice Assistants are offline</title>
+      <description>
+&lt;p&gt;&lt;small&gt;Jul &lt;var data-var=&apos;date&apos;&gt; 1&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;13:47&lt;/var&gt; EDT&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - This incident is now resolved.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jul &lt;var data-var=&apos;date&apos;&gt; 1&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;10:15&lt;/var&gt; EDT&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Monitoring&lt;/strong&gt; - A fix has been implemented to resolve the issue, we are currently monitoring the systems.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jul &lt;var data-var=&apos;date&apos;&gt; 1&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;10:13&lt;/var&gt; EDT&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - We are continuing to investigate this issue.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jul &lt;var data-var=&apos;date&apos;&gt; 1&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;10:02&lt;/var&gt; EDT&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - We are currently investigating an issue that is affecting the majority of our Digital and Voice assistants. We will provide another update within 30 minutes or sooner.&lt;/p&gt;      </description>
+      <pubDate>Tue, 01 Jul 2025 13:47:18 -0400</pubDate>
+      <link>https://poshtechnologies.statuspage.io/incidents/zdsw96f0wb5t</link>
+      <guid>https://poshtechnologies.statuspage.io/incidents/zdsw96f0wb5t</guid>
+    </item>
+    <item>
+      <title>Posh Platform Maintenance</title>
+      <description>
+&lt;p&gt;&lt;small&gt;Jun &lt;var data-var=&apos;date&apos;&gt;17&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;04:30&lt;/var&gt; EDT&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jun &lt;var data-var=&apos;date&apos;&gt;17&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;03:00&lt;/var&gt; EDT&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jun &lt;var data-var=&apos;date&apos;&gt;10&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;09:51&lt;/var&gt; EDT&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - Posh will be performing maintenance on Tuesday, June 17th 2025 from 3:00 AM to 4:30 AM ET to complete essential infrastructure updates. During this time, all Posh Products may experience short outages of several minutes in length during the 90 minute window.&lt;/p&gt;      </description>
+      <pubDate>Tue, 17 Jun 2025 04:30:21 -0400</pubDate>
+      <maintenanceEndDate>Tue, 17 Jun 2025 04:30:00 -0400</maintenanceEndDate>
+      <link>https://poshtechnologies.statuspage.io/incidents/br9k3sdp97tf</link>
+      <guid>https://poshtechnologies.statuspage.io/incidents/br9k3sdp97tf</guid>
+    </item>
+    <item>
+      <title>Cloud Provider issues</title>
+      <description>
+&lt;p&gt;&lt;small&gt;Jun &lt;var data-var=&apos;date&apos;&gt;12&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;16:36&lt;/var&gt; EDT&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - This is now resolved, there have been no signs of the earlier issues for the last hour.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jun &lt;var data-var=&apos;date&apos;&gt;12&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;15:39&lt;/var&gt; EDT&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Monitoring&lt;/strong&gt; - Our cloud provider has advised that all services have recovered. We are continuing to monitor to be sure this is the case.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jun &lt;var data-var=&apos;date&apos;&gt;12&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;14:42&lt;/var&gt; EDT&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - Our cloud provider is currently experiencing wide-spread latency and network-related issues across all of their customers.  The Posh platform is experiencing degraded performance.&lt;/p&gt;      </description>
+      <pubDate>Thu, 12 Jun 2025 16:36:56 -0400</pubDate>
+      <link>https://poshtechnologies.statuspage.io/incidents/gq6c01vmhmb9</link>
+      <guid>https://poshtechnologies.statuspage.io/incidents/gq6c01vmhmb9</guid>
+    </item>
+    <item>
+      <title>Posh Answers and Digital Assistants not loading</title>
+      <description>
+&lt;p&gt;&lt;small&gt;May &lt;var data-var=&apos;date&apos;&gt;22&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;13:00&lt;/var&gt; EDT&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - All instances of Posh Answers and a portion of the Posh Digital Assistants were offline from 12:54pm to 2:57pm EDT today.&lt;/p&gt;      </description>
+      <pubDate>Thu, 22 May 2025 13:00:00 -0400</pubDate>
+      <link>https://poshtechnologies.statuspage.io/incidents/5rnb2s6lwp8s</link>
+      <guid>https://poshtechnologies.statuspage.io/incidents/5rnb2s6lwp8s</guid>
+    </item>
+    <item>
+      <title>Posh Digital Assistants - error when a Suggestion is selected</title>
+      <description>
+&lt;p&gt;&lt;small&gt;May &lt;var data-var=&apos;date&apos;&gt; 2&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;11:52&lt;/var&gt; EDT&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - This issue has been resolved. The issue started at 11:22AM ET on 5/1/25 and was resolved at 10:55AM ET today, 5/2/25.&lt;/p&gt;&lt;p&gt;&lt;small&gt;May &lt;var data-var=&apos;date&apos;&gt; 2&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;11:02&lt;/var&gt; EDT&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Monitoring&lt;/strong&gt; - A fix has been implemented and we are monitoring the results. All testing so far indicates that the issue is resolved.&lt;/p&gt;&lt;p&gt;&lt;small&gt;May &lt;var data-var=&apos;date&apos;&gt; 2&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;10:50&lt;/var&gt; EDT&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Identified&lt;/strong&gt; - The issue has been identified and a fix is being implemented. Next update in 1 hour or sooner if there is a change in status.&lt;/p&gt;&lt;p&gt;&lt;small&gt;May &lt;var data-var=&apos;date&apos;&gt; 2&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;10:40&lt;/var&gt; EDT&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - We are investigating an issue that is affecting a majority of the Digital Assistants (Banking, Mobile, and Web) that causes an error message when a Suggestion is selected in the chat.&lt;/p&gt;      </description>
+      <pubDate>Fri, 02 May 2025 11:52:04 -0400</pubDate>
+      <link>https://poshtechnologies.statuspage.io/incidents/vwthkgn9csn5</link>
+      <guid>https://poshtechnologies.statuspage.io/incidents/vwthkgn9csn5</guid>
+    </item>
+    <item>
+      <title>Posh Answers and Knowledge Assistant not responding</title>
+      <description>
+&lt;p&gt;&lt;small&gt;Apr &lt;var data-var=&apos;date&apos;&gt; 7&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;09:38&lt;/var&gt; EDT&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - The fix is in place and the issue is now resolved.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Apr &lt;var data-var=&apos;date&apos;&gt; 7&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;09:22&lt;/var&gt; EDT&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Identified&lt;/strong&gt; - The issue has been identified and a fix is being implemented.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Apr &lt;var data-var=&apos;date&apos;&gt; 7&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;09:16&lt;/var&gt; EDT&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - We are currently investigating an issue that is causing our knowledge products to not respond to queries. We will update this incident in 1 hour or sooner if there is a change in status.&lt;/p&gt;      </description>
+      <pubDate>Mon, 07 Apr 2025 09:38:08 -0400</pubDate>
+      <link>https://poshtechnologies.statuspage.io/incidents/rjy1q8v9ktfx</link>
+      <guid>https://poshtechnologies.statuspage.io/incidents/rjy1q8v9ktfx</guid>
+    </item>
+    <item>
+      <title>Posh Platform Maintenance</title>
+      <description>
+&lt;p&gt;&lt;small&gt;Apr &lt;var data-var=&apos;date&apos;&gt; 2&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;22:00&lt;/var&gt; EDT&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Apr &lt;var data-var=&apos;date&apos;&gt; 2&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;21:00&lt;/var&gt; EDT&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Apr &lt;var data-var=&apos;date&apos;&gt; 2&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;15:00&lt;/var&gt; EDT&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - We will be performing maintenance this evening that will cause Posh Answers and Knowledge Assistant searches to fail at times during the maintenance period.&lt;/p&gt;      </description>
+      <pubDate>Wed, 02 Apr 2025 22:00:24 -0400</pubDate>
+      <maintenanceEndDate>Wed, 02 Apr 2025 22:00:00 -0400</maintenanceEndDate>
+      <link>https://poshtechnologies.statuspage.io/incidents/bcstc51bx86h</link>
+      <guid>https://poshtechnologies.statuspage.io/incidents/bcstc51bx86h</guid>
+    </item>
+    <item>
+      <title>Posh Voice Assistants  - some calls not completing</title>
+      <description>
+&lt;p&gt;&lt;small&gt;Mar &lt;var data-var=&apos;date&apos;&gt;31&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;19:03&lt;/var&gt; EDT&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - This incident has been resolved.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Mar &lt;var data-var=&apos;date&apos;&gt;31&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;17:27&lt;/var&gt; EDT&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - Posh Voice Assistants continue to operate normally. Our telephony provider continues to monitor for system stability. We will provide another update in 4 hours or as soon as further information becomes available.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Mar &lt;var data-var=&apos;date&apos;&gt;31&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;15:27&lt;/var&gt; EDT&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - Our service provider has completed their updates, and is currently monitoring. Posh continues to monitor as well.&lt;br /&gt;&lt;br /&gt;We will provide another update in 2 hours or as soon as more information is available.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Mar &lt;var data-var=&apos;date&apos;&gt;31&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;13:59&lt;/var&gt; EDT&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Monitoring&lt;/strong&gt; - Posh continues to monitor while we wait for our service provider to complete their updates. We have not seen any errors in the last hour and will continue to monitor until the we receive a notice of resolution from our provider.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Mar &lt;var data-var=&apos;date&apos;&gt;31&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;12:59&lt;/var&gt; EDT&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - Our telephony service provider has identified the issue and has begun implementing the fix. We are no longer seeing errors for our Voice Assistants. We will continue to monitor until we receive notification that this has been fully resolved. Next update in 1 hour or sooner if the status is updated by our provider.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Mar &lt;var data-var=&apos;date&apos;&gt;31&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;12:17&lt;/var&gt; EDT&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - A small number of Posh Voice Assistants are being adversely affected by an underlying issue with our telephony service provider that is causing calls to fail. We expect another update from our provider within the next hour or sooner if there is a change in status.&lt;/p&gt;      </description>
+      <pubDate>Mon, 31 Mar 2025 19:03:38 -0400</pubDate>
+      <link>https://poshtechnologies.statuspage.io/incidents/t6cjlv0gm34b</link>
+      <guid>https://poshtechnologies.statuspage.io/incidents/t6cjlv0gm34b</guid>
+    </item>
+    <item>
+      <title>Posh Answers and Knowledge Assistant offline</title>
+      <description>
+&lt;p&gt;&lt;small&gt;Jan &lt;var data-var=&apos;date&apos;&gt;24&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;18:34&lt;/var&gt; EST&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - We discovered an issue with our Knowledge Assistant and Posh Answers products this evening that was causing all searches to fail. This issue started at 5:09pm, was reported at approximately 5:30pm, and resolved at 6:20pm (All times in EST).&lt;/p&gt;      </description>
+      <pubDate>Fri, 24 Jan 2025 18:34:46 -0500</pubDate>
+      <link>https://poshtechnologies.statuspage.io/incidents/6pn3j8z7z58j</link>
+      <guid>https://poshtechnologies.statuspage.io/incidents/6pn3j8z7z58j</guid>
+    </item>
+    <item>
+      <title>Posh Platform Maintenance</title>
+      <description>
+&lt;p&gt;&lt;small&gt;Jan &lt;var data-var=&apos;date&apos;&gt;23&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;02:15&lt;/var&gt; EST&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jan &lt;var data-var=&apos;date&apos;&gt;23&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;02:00&lt;/var&gt; EST&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jan &lt;var data-var=&apos;date&apos;&gt;16&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;11:56&lt;/var&gt; EST&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - Posh will be performing maintenance on Thursday, January 23rd, 2025, from 2:00 AM to 2:15 AM ET to perform essential infrastructure updates. During this time, all Posh Products will experience a short outage of several minutes in length.&lt;/p&gt;      </description>
+      <pubDate>Thu, 23 Jan 2025 02:15:21 -0500</pubDate>
+      <maintenanceEndDate>Thu, 23 Jan 2025 02:15:00 -0500</maintenanceEndDate>
+      <link>https://poshtechnologies.statuspage.io/incidents/9r4qzjsbbt0q</link>
+      <guid>https://poshtechnologies.statuspage.io/incidents/9r4qzjsbbt0q</guid>
+    </item>
+    <item>
+      <title>Posh Platform Maintenance</title>
+      <description>
+&lt;p&gt;&lt;small&gt;Jan &lt;var data-var=&apos;date&apos;&gt;16&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;02:15&lt;/var&gt; EST&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jan &lt;var data-var=&apos;date&apos;&gt;16&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;02:00&lt;/var&gt; EST&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jan &lt;var data-var=&apos;date&apos;&gt;10&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;17:24&lt;/var&gt; EST&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - Posh will be performing maintenance on Thursday, January 16th, 2025, from 2:00 AM to 2:15 AM ET to perform essential infrastructure updates. During this time, all Posh Products will experience a short outage of several minutes in length.&lt;/p&gt;      </description>
+      <pubDate>Thu, 16 Jan 2025 02:15:21 -0500</pubDate>
+      <maintenanceEndDate>Thu, 16 Jan 2025 02:15:00 -0500</maintenanceEndDate>
+      <link>https://poshtechnologies.statuspage.io/incidents/rkfxqmw2z4dt</link>
+      <guid>https://poshtechnologies.statuspage.io/incidents/rkfxqmw2z4dt</guid>
+    </item>
+    <item>
+      <title>Posh Answers and Knowledge Assistant are offline</title>
+      <description>
+&lt;p&gt;&lt;small&gt;Jan &lt;var data-var=&apos;date&apos;&gt; 6&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;13:30&lt;/var&gt; EST&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - There have been no additional issues observed since the fix was implemented, this incident is resolved.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jan &lt;var data-var=&apos;date&apos;&gt; 6&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;11:06&lt;/var&gt; EST&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - We are continuing to monitor for any further issues.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jan &lt;var data-var=&apos;date&apos;&gt; 6&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;10:06&lt;/var&gt; EST&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Monitoring&lt;/strong&gt; - A fix was implemented and we are monitoring the results.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jan &lt;var data-var=&apos;date&apos;&gt; 6&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;09:36&lt;/var&gt; EST&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Identified&lt;/strong&gt; - The issue has been identified and a fix is being implemented.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jan &lt;var data-var=&apos;date&apos;&gt; 6&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;09:20&lt;/var&gt; EST&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - We are currently investigating and will provide updates every 30 minutes or sooner.&lt;/p&gt;      </description>
+      <pubDate>Mon, 06 Jan 2025 13:30:27 -0500</pubDate>
+      <link>https://poshtechnologies.statuspage.io/incidents/ns4l1b2mjl87</link>
+      <guid>https://poshtechnologies.statuspage.io/incidents/ns4l1b2mjl87</guid>
+    </item>
+    <item>
+      <title>Posh Platform Maintenance</title>
+      <description>
+&lt;p&gt;&lt;small&gt;Dec &lt;var data-var=&apos;date&apos;&gt;23&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;03:30&lt;/var&gt; EST&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Dec &lt;var data-var=&apos;date&apos;&gt;23&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;03:00&lt;/var&gt; EST&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Dec &lt;var data-var=&apos;date&apos;&gt;18&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;14:48&lt;/var&gt; EST&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - Posh will be performing routine maintenance on Monday, December 23, 2024, from 3:00 AM to 3:30 AM ET to perform essential infrastructure updates. During this time, all Posh Products will be unavailable. We expect the maintenance to be completed within 30 minutes.&lt;/p&gt;      </description>
+      <pubDate>Mon, 23 Dec 2024 03:30:21 -0500</pubDate>
+      <maintenanceEndDate>Mon, 23 Dec 2024 03:30:00 -0500</maintenanceEndDate>
+      <link>https://poshtechnologies.statuspage.io/incidents/w2xlrdq6w813</link>
+      <guid>https://poshtechnologies.statuspage.io/incidents/w2xlrdq6w813</guid>
+    </item>
+    <item>
+      <title>Posh Platform Maintenance</title>
+      <description>
+&lt;p&gt;&lt;small&gt;Dec &lt;var data-var=&apos;date&apos;&gt;16&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;03:30&lt;/var&gt; EST&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Dec &lt;var data-var=&apos;date&apos;&gt;16&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;03:00&lt;/var&gt; EST&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Dec &lt;var data-var=&apos;date&apos;&gt;13&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;14:35&lt;/var&gt; EST&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - Posh will be performing routine maintenance on Monday, December 16, 2024, from 3:00 AM to 3:30 AM ET to perform essential infrastructure updates. During this time, all Posh Products will be unavailable. We expect the maintenance to be completed within 30 minutes.&lt;/p&gt;      </description>
+      <pubDate>Mon, 16 Dec 2024 03:30:21 -0500</pubDate>
+      <maintenanceEndDate>Mon, 16 Dec 2024 03:30:00 -0500</maintenanceEndDate>
+      <link>https://poshtechnologies.statuspage.io/incidents/gl89vv4z4wdh</link>
+      <guid>https://poshtechnologies.statuspage.io/incidents/gl89vv4z4wdh</guid>
+    </item>
+    <item>
+      <title>Posh Answers and Knowledge Assistant are offline</title>
+      <description>
+&lt;p&gt;&lt;small&gt;Dec &lt;var data-var=&apos;date&apos;&gt;11&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;18:00&lt;/var&gt; EST&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - Due to one of our critical frontier AI / LLM model partners having an outage, our Answers and Knowledge Assistant products were unable to respond to questions between 6:16pm and 8:40pm EST on December 11th.&lt;/p&gt;      </description>
+      <pubDate>Wed, 11 Dec 2024 18:00:00 -0500</pubDate>
+      <link>https://poshtechnologies.statuspage.io/incidents/g6016zxw1qgp</link>
+      <guid>https://poshtechnologies.statuspage.io/incidents/g6016zxw1qgp</guid>
+    </item>
+    <item>
+      <title>Posh Answers and Knowledge Assistant are offline</title>
+      <description>
+&lt;p&gt;&lt;small&gt;Nov &lt;var data-var=&apos;date&apos;&gt;20&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;18:23&lt;/var&gt; EST&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - Posh Answers and Knowledge Assistant are fully operational again.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Nov &lt;var data-var=&apos;date&apos;&gt;20&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;18:10&lt;/var&gt; EST&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Identified&lt;/strong&gt; - The issue has been identified and a fix is being implemented.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Nov &lt;var data-var=&apos;date&apos;&gt;20&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;17:57&lt;/var&gt; EST&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - We are currently investigating the issue and will provide another update within 30 minutes or sooner if there is a change in status.&lt;/p&gt;      </description>
+      <pubDate>Wed, 20 Nov 2024 18:23:16 -0500</pubDate>
+      <link>https://poshtechnologies.statuspage.io/incidents/2dx146h9z9dr</link>
+      <guid>https://poshtechnologies.statuspage.io/incidents/2dx146h9z9dr</guid>
+    </item>
+    <item>
+      <title>Posh Portal - Knowledge Explorer not loading</title>
+      <description>
+&lt;p&gt;&lt;small&gt;Oct &lt;var data-var=&apos;date&apos;&gt;30&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;12:43&lt;/var&gt; EDT&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - The issue has been resolved.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Oct &lt;var data-var=&apos;date&apos;&gt;30&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;12:30&lt;/var&gt; EDT&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - We are currently investigating an issue with the Knowledge Explorer component of the Posh Portal not loading. We will update this incident again within 1 hour, or sooner if there is a change in status.&lt;/p&gt;      </description>
+      <pubDate>Wed, 30 Oct 2024 12:43:19 -0400</pubDate>
+      <link>https://poshtechnologies.statuspage.io/incidents/tblvg500jhtw</link>
+      <guid>https://poshtechnologies.statuspage.io/incidents/tblvg500jhtw</guid>
+    </item>
+    <item>
+      <title>Posh Platform Maintenance</title>
+      <description>
+&lt;p&gt;&lt;small&gt;Oct &lt;var data-var=&apos;date&apos;&gt;16&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;03:27&lt;/var&gt; EDT&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Oct &lt;var data-var=&apos;date&apos;&gt;16&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;03:20&lt;/var&gt; EDT&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Verifying&lt;/strong&gt; - Verification is currently underway for the maintenance items.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Oct &lt;var data-var=&apos;date&apos;&gt;16&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;03:00&lt;/var&gt; EDT&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Oct &lt;var data-var=&apos;date&apos;&gt;11&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;14:27&lt;/var&gt; EDT&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - Platform maintenance is scheduled for Wednesday, October 16, 2024, from 3:00 AM to 4:00 AM ET to perform essential infrastructure updates. During this time, all digital and voice bots will be impacted, and access to the Posh Portal and Knowledge Assistant will be unavailable. We expect the maintenance to be completed within 30 minutes.&lt;/p&gt;      </description>
+      <pubDate>Wed, 16 Oct 2024 03:27:55 -0400</pubDate>
+      <maintenanceEndDate>Wed, 16 Oct 2024 04:00:00 -0400</maintenanceEndDate>
+      <link>https://poshtechnologies.statuspage.io/incidents/w12swmhbsg1f</link>
+      <guid>https://poshtechnologies.statuspage.io/incidents/w12swmhbsg1f</guid>
+    </item>
+    <item>
+      <title>Knowledge Assistant searches are failing</title>
+      <description>
+&lt;p&gt;&lt;small&gt;Oct &lt;var data-var=&apos;date&apos;&gt; 8&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;12:58&lt;/var&gt; EDT&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - This incident has been resolved.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Oct &lt;var data-var=&apos;date&apos;&gt; 8&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;11:54&lt;/var&gt; EDT&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Monitoring&lt;/strong&gt; - We have implemented a fix and are monitoring to assure that all searches are now working.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Oct &lt;var data-var=&apos;date&apos;&gt; 8&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;11:41&lt;/var&gt; EDT&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Identified&lt;/strong&gt; - An issue has been identified that is causing KA searches to fail. We are working on a fix now and will update this incident again within an hour, or sooner if there is a change in status.&lt;/p&gt;      </description>
+      <pubDate>Tue, 08 Oct 2024 12:58:33 -0400</pubDate>
+      <link>https://poshtechnologies.statuspage.io/incidents/n4t2n9b109yy</link>
+      <guid>https://poshtechnologies.statuspage.io/incidents/n4t2n9b109yy</guid>
+    </item>
+    <item>
+      <title>Posh Knowledge Assistant is down</title>
+      <description>
+&lt;p&gt;&lt;small&gt;Aug &lt;var data-var=&apos;date&apos;&gt;28&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;11:06&lt;/var&gt; EDT&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - The issue has been resolved, Knowledge Assistant is back online.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Aug &lt;var data-var=&apos;date&apos;&gt;28&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;11:05&lt;/var&gt; EDT&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - We are continuing to investigate this issue.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Aug &lt;var data-var=&apos;date&apos;&gt;28&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;10:44&lt;/var&gt; EDT&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - We are currently investigating an outage with our Knowledge Assistant, we will update this incident hourly or sooner if there is relevant information to share.&lt;/p&gt;      </description>
+      <pubDate>Wed, 28 Aug 2024 11:06:19 -0400</pubDate>
+      <link>https://poshtechnologies.statuspage.io/incidents/c23qvx1jn589</link>
+      <guid>https://poshtechnologies.statuspage.io/incidents/c23qvx1jn589</guid>
+    </item>
+    <item>
+      <title>Posh Portal: Insights &amp; Chat Logs Maintenance</title>
+      <description>
+&lt;p&gt;&lt;small&gt;Jul &lt;var data-var=&apos;date&apos;&gt; 8&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;03:00&lt;/var&gt; EDT&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jul &lt;var data-var=&apos;date&apos;&gt; 7&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;23:00&lt;/var&gt; EDT&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jul &lt;var data-var=&apos;date&apos;&gt; 2&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;14:39&lt;/var&gt; EDT&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - We will be performing routine maintenance on the Posh Portal on Sunday 7/7/24 overnight from 11pm Eastern on 7/7 to 3am Eastern on 7/8.  The only pages impacted will be Insights and Chat Logs.  All other pages (Coverage Gaps, Content Studio, Bot Configuration, Users) will not be impacted. If you do go to the Insights or Chat Logs pages during maintenance, data will not load on the page.&lt;br /&gt;&lt;br /&gt;As this only impacts a portion of the Posh Portal, all Assistants will be fully operational during this maintenance period.&lt;br /&gt;&lt;br /&gt;We will send notifications 1 hour before as a reminder, once maintenance starts, and then once it is completed.&lt;/p&gt;      </description>
+      <pubDate>Mon, 08 Jul 2024 03:00:02 -0400</pubDate>
+      <maintenanceEndDate>Mon, 08 Jul 2024 03:00:00 -0400</maintenanceEndDate>
+      <link>https://poshtechnologies.statuspage.io/incidents/mk4l7sthw8mm</link>
+      <guid>https://poshtechnologies.statuspage.io/incidents/mk4l7sthw8mm</guid>
+    </item>
+    <item>
+      <title>Posh Voice Assistants - degraded performance for 13 minutes</title>
+      <description>
+&lt;p&gt;&lt;small&gt;Jul &lt;var data-var=&apos;date&apos;&gt; 2&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;07:52&lt;/var&gt; EDT&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - This incident has been resolved.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jul &lt;var data-var=&apos;date&apos;&gt; 1&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;17:24&lt;/var&gt; EDT&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - We are continuing to monitor for any further issues.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jul &lt;var data-var=&apos;date&apos;&gt; 1&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;15:14&lt;/var&gt; EDT&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - We are continuing to monitor for any further issues.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jul &lt;var data-var=&apos;date&apos;&gt; 1&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;13:21&lt;/var&gt; EDT&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Monitoring&lt;/strong&gt; - We found a period of high latency that was caused by an oversubscribed resource in our environment. We will be performing emergency maintenance at 3AM ET on 7/2 to add additional resources.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jul &lt;var data-var=&apos;date&apos;&gt; 1&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;11:33&lt;/var&gt; EDT&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - We are currently investigating an issue that occurred in our voice infrastructure that started at 11:13am ET and lasted for 13 minutes.&lt;/p&gt;      </description>
+      <pubDate>Tue, 02 Jul 2024 07:52:37 -0400</pubDate>
+      <link>https://poshtechnologies.statuspage.io/incidents/1dzbnzv2knzs</link>
+      <guid>https://poshtechnologies.statuspage.io/incidents/1dzbnzv2knzs</guid>
+    </item>
+    <item>
+      <title>Google Text To Speech issues</title>
+      <description>
+&lt;p&gt;&lt;small&gt;Jun &lt;var data-var=&apos;date&apos;&gt;23&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;08:18&lt;/var&gt; EDT&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - This incident is resolved.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jun &lt;var data-var=&apos;date&apos;&gt;22&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;17:36&lt;/var&gt; EDT&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - Twilio continues to monitor, next update expected in 2 hours or as soon as more information becomes available.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jun &lt;var data-var=&apos;date&apos;&gt;22&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;16:22&lt;/var&gt; EDT&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Monitoring&lt;/strong&gt; - Posh received an update from Twilio that TTS using Google TTS Voice is now operating normally. Twilio will continue to monitor for system stability and will provide another update in 1 hour or as soon as more information becomes available.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jun &lt;var data-var=&apos;date&apos;&gt;22&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;15:48&lt;/var&gt; EDT&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - Posh has received a notification from Twilio that they are investigating an issue with Google TTS that could affect Posh Voice Assistants. Twilio is still investigating at this point, with another update expected within an hour. We will update this incident as we receive updates from Twilio.&lt;/p&gt;      </description>
+      <pubDate>Sun, 23 Jun 2024 08:18:11 -0400</pubDate>
+      <link>https://poshtechnologies.statuspage.io/incidents/xj9xsdk6n18p</link>
+      <guid>https://poshtechnologies.statuspage.io/incidents/xj9xsdk6n18p</guid>
+    </item>
+    <item>
+      <title>Posh Portal Impaired</title>
+      <description>
+&lt;p&gt;&lt;small&gt;Apr &lt;var data-var=&apos;date&apos;&gt;30&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;14:09&lt;/var&gt; EDT&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - We have resolved the issue.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Apr &lt;var data-var=&apos;date&apos;&gt;30&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;13:48&lt;/var&gt; EDT&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - We are currently investigating issues with the Posh Portal including Knowledge Assistant. We will update this incident as we know more.&lt;/p&gt;      </description>
+      <pubDate>Tue, 30 Apr 2024 14:09:08 -0400</pubDate>
+      <link>https://poshtechnologies.statuspage.io/incidents/sjg71fwvmlzw</link>
+      <guid>https://poshtechnologies.statuspage.io/incidents/sjg71fwvmlzw</guid>
+    </item>
+  </channel>
+</rss>
