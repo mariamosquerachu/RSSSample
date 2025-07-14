@@ -25,7 +25,7 @@
       <title>Posh Platform Maintenance</title>
       <description>
 &lt;p&gt;&lt;small&gt;Jun &lt;var data-var=&apos;date&apos;&gt;17&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;04:30&lt;/var&gt; EDT&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jun &lt;var data-var=&apos;date&apos;&gt;17&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;03:00&lt;/var&gt; EDT&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jun &lt;var data-var=&apos;date&apos;&gt;10&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;09:51&lt;/var&gt; EDT&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - Posh will be performing maintenance on Tuesday, June 17th 2025 from 3:00 AM to 4:30 AM ET to complete essential infrastructure updates. During this time, all Posh Products may experience short outages of several minutes in length during the 90 minute window.&lt;/p&gt;      </description>
-      <pubDate>Tue, 17 Jun 2025 04:30:21 -0400</pubDate>
+      <pubDate>Tue, 14 July 2025 17:14:00 -0400</pubDate>
       <maintenanceEndDate>Tue, 17 Jun 2025 04:30:00 -0400</maintenanceEndDate>
       <link>https://poshtechnologies.statuspage.io/incidents/br9k3sdp97tf</link>
       <guid>https://poshtechnologies.statuspage.io/incidents/br9k3sdp97tf</guid>
