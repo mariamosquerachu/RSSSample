@@ -8,13 +8,13 @@
             <title>Sample Item 1</title>
             <link>https://example.com/post1</link>
             <description>This is the first sample post</description>
-            <pubDate>Tue, 15 Jul 2025 00:20:00 +0000</pubDate>
+            <pubDate>Tue, 15 Jul 2025 00:30:00 +0000</pubDate>
         </item>
         <item>
             <title>Sample Item 2</title>
             <link>https://example.com/post2</link>
             <description>This is the second sample post</description>
-            <pubDate>Tue, 15 Jul 2025 00:20:00 +0000</pubDate>
+            <pubDate>Tue, 15 Jul 2025 00:30:00 +0000</pubDate>
         </item>
     </channel>
 </rss>
